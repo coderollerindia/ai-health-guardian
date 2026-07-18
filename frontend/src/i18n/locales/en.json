@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "AI Health Guardian"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "prescriptionScanner": "Prescription Scanner",
+    "billScanner": "Bill Scanner",
+    "aiChat": "AI Chat",
+    "history": "History",
+    "reminders": "Reminders",
+    "emergency": "Emergency",
+    "healthScore": "Health Score",
+    "insights": "Insights",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login",
+    "loginWithGoogle": "Login with Google"
+  },
+  "actions": {
+    "upload": "Upload",
+    "analyze": "Analyze",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "loading": "Loading..."
+  },
+  "auth": {
+    "continueWithGoogle": "Continue with Google",
+    "welcomeBack": "Welcome back",
+    "loginSubtitle": "Sign in to access your prescriptions, bills, reminders and AI health insights.",
+    "signingIn": "Signing you in...",
+    "backToHome": "Back to home"
+  },
+  "landing": {
+    "headline": "Your AI-Powered Health Guardian",
+    "subheadline": "Understand prescriptions, verify hospital bills, and get instant health guidance — powered by AI that explains everything in plain language.",
+    "cta": "Get Started Free",
+    "secondaryCta": "See How It Works",
+    "trustBadge": "Secured by Supabase Auth · Encrypted storage",
+    "features": {
+      "title": "Everything your health needs, in one guardian",
+      "subtitle": "AI-powered tools that turn confusing medical paperwork into clear, actionable guidance.",
+      "prescription": {
+        "title": "Prescription Analysis",
+        "desc": "Scan any prescription to get plain-language explanations, dosage schedules, warnings and drug interactions."
+      },
+      "bill": {
+        "title": "Bill Fraud Detection",
+        "desc": "Upload hospital bills to catch overcharges, duplicate line items, and hidden fees automatically."
+      },
+      "chat": {
+        "title": "AI Health Chat",
+        "desc": "Ask follow-up questions about your medicines or bills and get instant, contextual answers."
+      },
+      "reminders": {
+        "title": "Smart Reminders",
+        "desc": "Never miss a dose with morning, afternoon and night medicine reminders tailored to your prescription."
+      },
+      "emergency": {
+        "title": "Emergency Triage",
+        "desc": "Describe your symptoms and get an instant urgency assessment with clear next steps."
+      },
+      "healthScore": {
+        "title": "Health Score",
+        "desc": "Track adherence, nutrition, hydration, activity and sleep in one holistic daily score."
+      },
+      "insights": {
+        "title": "Weekly & Monthly Insights",
+        "desc": "AI-generated summaries surface trends and risks across all your health activity."
+      }
+    },
+    "how": {
+      "title": "How it works",
+      "subtitle": "From confusing paperwork to clear answers in three simple steps.",
+      "step1Title": "Scan or Upload",
+      "step1Desc": "Snap a photo or upload a prescription or hospital bill directly from your phone or computer.",
+      "step2Title": "AI Analyzes",
+      "step2Desc": "Gemini-powered analysis extracts medicines, charges, risks and inconsistencies in seconds.",
+      "step3Title": "Get Clear Answers",
+      "step3Desc": "Receive plain-language summaries, reminders and recommendations you can actually act on."
+    },
+    "security": {
+      "title": "Privacy and security, built in",
+      "subtitle": "Your medical data deserves bank-grade protection.",
+      "auth": {
+        "title": "Google Sign-In via Supabase",
+        "desc": "Authentication is handled entirely by Supabase Auth with row-level security on every table."
+      },
+      "storage": {
+        "title": "Encrypted, private storage",
+        "desc": "Every upload lives in a private per-user storage bucket, never shared or publicly indexable."
+      },
+      "ai": {
+        "title": "AI keys never reach your browser",
+        "desc": "All Gemini calls happen server-side — your data and API keys never touch the client."
+      }
+    },
+    "footer": {
+      "tagline": "AI Health Guardian helps you understand your prescriptions, verify your bills, and stay on top of your health — all in one place.",
+      "disclaimer": "Built for a hackathon demo. Not a substitute for professional medical advice.",
+      "rights": "All rights reserved."
+    }
+  }
+}
